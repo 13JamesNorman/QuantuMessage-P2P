@@ -22,11 +22,12 @@ along with QuantuMessage.  If not, see <https://www.gnu.org/licenses/>.
 
 
 # Instructions for Use
-1. Extract the zip file to the chosen directory
-2. Run the file "Main.exe"
+1. Download all files
+2. Install Python (min. v3.6)
+3. Run "Main.py"
 
 
 # Notes
 1. "Receiver address" refers to the device name of the destination machine. This can be found through Python, via the "socket" library's "gethostname" function.
-2. The program will save messages automatically. To erase message content, a copy of Python 3.6 must be installed on your machine. To do so, visit <https://www.python.org/downloads/> to download and install a copy then run "resetMessages.py".
+2. Visit <https://www.python.org/downloads/> to download and install a copy of Python.
 3. This program has been built and tested on Windows only, and performance on other operating systems may vary.
