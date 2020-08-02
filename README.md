@@ -1,8 +1,8 @@
-# QuantuMessage
-Experimental messaging program with possible quantum-secure encryption
+# QuantuMessage-P2P
+Experimental peer-to-peer messaging program with possible quantum-secure encryption
 
 # Disclaimer
-**Any form of encryption used within this software is experimental and has NO PROOF OF SECURITY WHATSOEVER. Therefore it is highly recommended that NO ONE USE THE ENCRYPTION WITHIN THIS CODE UNDER ANY CIRCUMSTANCES.**
+**Any form of encryption used within this software lacks real-world testing and has NO PROOF OF SECURITY WHATSOEVER. Therefore it is highly recommended that NO ONE USE THE ENCRYPTION WITHIN THIS CODE UNDER ANY CIRCUMSTANCES.**
 
 **Anyone using this encryption system does so at their own risk. The developer accepts NO RESPONSIBILITY for any loss or theft of data as a result of using the encryption algorithms in this software.**
 
